@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T23:52:32.327Z" agent="5.0 (X11)" etag="XpuOXll9G8GzwzzS2f6k" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T23:58:32.450Z" agent="5.0 (X11)" etag="iVkXk0P8ty_i8QQXK3cn" version="14.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdKbSGrQdmEdMPdkdZee-43" value="&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;TODO: get finsihed diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VdKbSGrQdmEdMPdkdZee-43" value="&lt;font style=&quot;font-size: 32px&quot;&gt;&lt;b&gt;TODO: get starter diagram from David&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="230" width="460" height="70" as="geometry" />
         </mxCell>
       </root>
